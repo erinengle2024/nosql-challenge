@@ -1,12 +1,12 @@
-# nosql-challenge
+# Nosql-challenge
 
 
 
-Welcome to my submission for the NoSQL Challenge in module 12 of the Data Analytics bootcamp. This project was completed as part of the curriculum to showcase my proficiency in 
+Welcome to my submission for the NoSQL Challenge in module 12 of the Data Analytics bootcamp. This project was completed as part of the curriculum to showcase my proficiency in MongoDB and the Pymongo Python library.
 
 
 # Challenge Description
-
+This assignment involves querying a database of food establishment data to extract specific information using MongoDB queries. Tasks include finding establishments with certain hygiene scores, sorting and filtering results based on location and rating values, and converting the query results into Pandas DataFrames for further analysis. Each task is designed to demonstrate proficiency in querying MongoDB databases and processing query results using Python.
 
 ![image](https://github.com/erinengle2024/nosql-challenge/assets/158017994/d0c7fbd8-e691-436e-8693-9f38d7bf08e6)
 ![image](https://github.com/erinengle2024/nosql-challenge/assets/158017994/3fb61f5e-da39-48dc-a65f-d2bd297fdd62)
@@ -39,6 +39,13 @@ Welcome to my submission for the NoSQL Challenge in module 12 of the Data Analyt
 
   
   # My Results
+![Screenshot 2024-04-24 at 2 25 20 PM](https://github.com/erinengle2024/nosql-challenge/assets/158017994/b29c6d73-6455-4749-9b31-6010528562bb)
+![Screenshot 2024-04-24 at 2 25 37 PM](https://github.com/erinengle2024/nosql-challenge/assets/158017994/697d6b11-d6a5-4fc6-a228-22a4d9fe1b16)
+![Screenshot 2024-04-24 at 2 25 58 PM](https://github.com/erinengle2024/nosql-challenge/assets/158017994/fb908623-14b9-4a5d-93fe-8c619342a127)
+![Screenshot 2024-04-24 at 2 26 06 PM](https://github.com/erinengle2024/nosql-challenge/assets/158017994/466753e3-ebd8-4ecd-85aa-e6cb59a301c8)
+![Screenshot 2024-04-24 at 2 26 43 PM](https://github.com/erinengle2024/nosql-challenge/assets/158017994/8310075e-3fbd-420a-b7e9-87a5bd7c9d1f)
+![Screenshot 2024-04-24 at 2 27 02 PM](https://github.com/erinengle2024/nosql-challenge/assets/158017994/44b0774f-2b29-4f4f-863a-ca7599f85a82)
+![Screenshot 2024-04-24 at 2 27 31 PM](https://github.com/erinengle2024/nosql-challenge/assets/158017994/a6e3c7d6-2944-49e4-9d20-cd4bbe03ce42)
 
 
 
